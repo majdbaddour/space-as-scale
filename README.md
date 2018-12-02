@@ -41,15 +41,15 @@ The questions I have are about:
 - How do we study this kind of interaction?
 - How do we study a hierarchy in Physics?
 
-If our questions are not about motion and construction, but about `growth` and `contraction`, we should not have to start with that same concept of space -- i.e. that which is measured in linear distance.
+If our questions are not about motion and construction, but about `growth` and `contraction`, we should not have to contend with that same concept of space -- i.e. that which is measured in linear distance: it would be the wrong abstraction.
 
-If we build a Physics from a space that mediates/effects causation between large and small:
+If we build a Physics from a space that mediates causation between large and small -- i.e. describes how things at different scales grow, relate and change together:
 
 - what dynamics do we arrive at?
 - what would that dynamics be capable of describing?
 - what concepts would we find, parallel to speed, acceleration, force, pressure, energy and power?
 - what would they mean?
-- what other unknown would we find?
+- what other unknowns, in addition to the ones above, would we find?
 
 We can start by drawing that space, and annotating it with what we know:
 
