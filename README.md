@@ -27,9 +27,7 @@ The need to understand physical bodies in `motion`, both celestial and earthly, 
   
 all require measuring distance/size in varying numbers of dimensions in space.
 
-Newton started with that space as a given, as the absolute medium through which everything exists and happens: 
-
-```an arena we measure as distance```
+Newton started with that space as a given, as the absolute medium through which everything exists and happens: `an arena we measure as distance`
 
 Therefore, Classical Physics built its structure of laws and rules around a space which consists of measured, or measurable, distances, through which forces act, and energies are exchanged.
 
@@ -63,13 +61,17 @@ We can start by drawing that space, and annotating it with what we know:
 ![alt text][scale-01]
 
 [scale-01]: ./images/scale-02.png "scale and relative distance - base 2 and 10"
+
 <div style="text-align: center; margin: -25px 0px 25px">fig (1) - scale and relative distance</div>
+
 
 where a unit positive step in Scale corresponds to multiplying the associated dimension (here distance) with the base value (i.e. becoming exponentially larger). A unit step in the negative direction corresponds to dividing the value by the base (i.e. becoming exponentially smaller).
 
 fig (1) shows:
 
-$$distance=base^s$$ (1)  
+![alt text][scale-02]
+
+[scale-02]: ./images/distance-base-^s.png "scale and relative distance - base 2 and 10"
 
 where `s` is the scale value.
 
