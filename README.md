@@ -64,8 +64,7 @@ We can start by drawing that space, and annotating it with what we know:
 
 <div style="text-align: center; margin: -25px 0px 25px">fig (1) - scale and relative distance</div>
 
-
-where a unit positive step in Scale corresponds to multiplying the associated dimension (here distance) with the base value (i.e. becoming exponentially larger). A unit step in the negative direction corresponds to dividing the value by the base (i.e. becoming exponentially smaller).
+where a unit step in Scale in the positive direction corresponds to multiplying the associated dimension (here distance) with the base value (i.e. becoming exponentially larger). A unit step in the negative direction corresponds to dividing the value by the base (i.e. becoming exponentially smaller).
 
 fig (1) shows:
 
@@ -75,17 +74,11 @@ fig (1) shows:
 
 where `s` is the scale value.
 
-fig (1) doesn't have any measuring unit specified for the distance dimension, since it's invariant for any measuring unit.
+The idea here is that any time an observer wants to describe something, they adjust the scale so what they're describing is at point 0 (size 1 no matter what base is used).
 
-The idea here is that any time an observer wants to describe something, they adjust the scale so that what they're describing is at point 0 (size 1) no matter what base is used.
+In other words: our description centers the scale around its descriptor. For example, describing a house starts where the house is (its larger environment, the street, the neighborhood, etc), and its rooms.
 
-In other words: a description can only be meaningful if it centers the scale around its descriptor, and normalizes its units so that what is being described has a unit size in the associated dimension.
-
-This allows our description to be truly `subjective`, as all descriptions are so, by definition.
-
-This takes the viewpoint that, for any kind of description to be at all possible, to start with at least, we have to choose a scale that normalizes the size of what we're describing to size 1, i.e.: we have to be the same size of what we describe.
-
-At this point we may find Alice's pills to be quite handy: 
+At this point we may find Alice's pills to be quite handy:
 
 ```one pill will make you larger, and one will make you small```
 
@@ -93,10 +86,10 @@ At this point we may find Alice's pills to be quite handy:
 
 ```and the pill that mother gave you, doesn't do anything at all```
 
-Actually, the pill that mother gave you does do something: it restores you to your `normal` size, since your mother **`knows`** your size.
+Actually, the pill that mother gives you does something very important: it restores you to your `normal` size, since your mother **`knows`** your size.
 
 So, let's recap what this means:
 
-to describe an object, take a pill that makes you its size, and you become, together with what is being described, at point 0 in scale. Take a step to the right, and that multiplies your size by the base you chose for the dimension you chose to describe. A step to the left is the reverse process, you become smaller by the base value.
+to describe an object, take a pill that makes you its size, and you become, together with what is being described, at point 0 in scale. Take a step to the right, and that multiplies your size by the base you chose for the dimension you're describing. A step to the left is the reverse, and you become smaller by the base value.
 
 Now we can derive rates of change, and see what we get.
