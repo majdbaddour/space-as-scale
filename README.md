@@ -93,7 +93,7 @@ At this point we may find Alice's pills to be quite handy:
 
 ```and the pill that mother gave you, doesn't do anything at all```
 
-Actually, the pill that mother gave you does do something: it restores you to your `normal` size, since your mother **`is`** your size.
+Actually, the pill that mother gave you does do something: it restores you to your `normal` size, since your mother **`knows`** your size.
 
 So, let's recap what this means:
 
