@@ -6,7 +6,7 @@ repository for evolving the concept of space as scale, instead of as distance
 
 The concept of space evolved through millennia of `construction` and `movement`.
 
-To do construction work we measure:
+To do construction work, we measure:
 
 - the `distance` between objects or points
 - the `area` of a surface
@@ -25,17 +25,17 @@ The need to understand physical bodies in `motion`, both celestial and earthly, 
 - kinetic and potential energy
 - power
   
-all require measuring distance/size in varying numbers of dimensions in space.
+all require measuring distance in a varying number of dimensions in space.
 
-Newton started with that space as a given, as the absolute medium through which everything exists and happens: `an arena we measure as distance`
+Newton started with that space as a given, as the absolute medium through which everything exists and happens: `an arena we measure as distance`.
 
 Therefore, Classical Physics built its structure of laws and rules around a space which consists of measured, or measurable, distances, through which forces act, and energies are exchanged.
 
-However, that space does `nothing`. It's just there as something `we` measure. It's `inert`. It doesn't **`do`** anything. This explains why forces were introduced to `act` in that space, exerting energy, and effecting change -- i.e. `causation`.
+However, that space does `nothing`. It's just there as something `we` measure. It's `inert`. It doesn't **`do`** anything. This explains why forces were introduced to `act` in that space, imparting energy, and effecting change -- i.e. `causation`.
 
 But ...
 
-Across a wide range of phenomena, from super galaxy clusters and planetary nebulae, to plant and animal organ shape and growth patterns, all the way down to DNA molecules and atomic orbitals, there seems to be a kind of thread, or link, between environment and constituent part: the larger engulfing and enfolding the smaller. Each shaping the other beneath and above in the hierarchy. In other words: there is a causal exchange between big and small that is not about the measurement of normal linear distance, but about the `scale` distance between them, i.e. their `relative` size.
+Across a wide range of phenomena, from super galaxy clusters and planetary nebulae, to plant and animal organ shapes and growth patterns, all the way down to DNA molecules and atomic orbitals, there seems to be a kind of thread, or link, between environment and constituent part: the larger engulfing and enfolding the smaller. Each shaping the other beneath and above in the hierarchy. In other words: there is a causal exchange between big and small that is not captured by measurement of normal linear distance, but by measuring the `scale` distance between them, i.e. their `relative` size.
 
 The questions I have are about:
 
@@ -46,9 +46,9 @@ The questions I have are about:
 - How do we study this kind of interaction?
 - How do we study a hierarchy in Physics?
 
-If our questions are not about motion and construction, but about `growth` and `contraction`, we should not have to contend with that same concept of space -- i.e. that which is measured in linear distance: it would be the wrong abstraction.
+If our questions are not about construction and motion, but about `growth` and `contraction`, we should not have to contend with that same concept of space -- i.e. that which is measured in linear distance: it would be the wrong abstraction.
 
-If we build a Physics from a space that mediates causation between large and small -- i.e. describes how things at different scales grow, relate and change together:
+If we build a Physics from a space that mediates causation between large and small -- i.e. describes how things at different scales grow, relate, and change together:
 
 - what dynamics do we arrive at?
 - what would that dynamics be capable of describing?
@@ -74,9 +74,11 @@ fig (1) shows:
 
 where `s` is the scale value.
 
+If I want to describe an object in this space, it's not its spatial dimensions that are of importance here, but its hierarchic structure. The object itself is always sitting at point 0, surrounded by its immediate scale neighborhood: the larger environment immediately surrounding it, and its smaller components.
+
 The idea here is that any time an observer wants to describe something, they adjust the scale so what they're describing is at point 0 (size 1 no matter what base is used).
 
-In other words: our description centers the scale around its descriptor. For example, describing a house starts where the house is (its larger environment, the street, the neighborhood, etc), and its rooms.
+In other words: our description centers the scale around its descriptor. For example, describing a house starts where the house is (its larger environment, the street, the neighborhood, etc), its rooms, and their contents (its smaller and smaller dimensions). 
 
 At this point we may find Alice's pills to be quite handy:
 
