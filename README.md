@@ -2,7 +2,7 @@
 
 repository for evolving the concept of space as scale, instead of as distance
 
-## What is Space ???
+## Space as Distance is the Wrong Abstraction
 
 The concept of space evolved through millennia of `construction` and `movement`.
 
