@@ -78,7 +78,7 @@ If I want to describe an object in this space, I describe its hierarchic structu
 
 The idea here is that any time an observer wants to describe something, they adjust the scale so what they're describing is at point 0 (size 1 no matter what base is used).
 
-In other words: our description centers the scale around its descriptor. For example, describing a house starts where the house is (its larger environment, the street, the neighborhood, etc), its rooms, and their contents (its smaller and smaller dimensions). 
+In other words: our description centers the scale around its descriptor. For example, describing a house starts where the house is (its larger environment, the street, the neighborhood, etc), its rooms, and their contents (its smaller and smaller dimensions).
 
 At this point we may find Alice's pills to be quite handy:
 
@@ -94,6 +94,6 @@ So, let's recap what this means:
 
 To describe an object, take a pill that makes you its size, and you become, together with what is being described, at point 0 in scale. Take a step to the right, and that multiplies your size by the base you chose for the dimension you're describing. A step to the left is the reverse, and you become smaller by the base value.
 
-This insistence that the observer describe an object from its own scale's point of view, reproduces the subjective nature of observation and description. A description is always from the point of view of a specific scale.
+This insistence, that the observer describe an object from its own scale's point of view, reproduces the subjective nature of observation and description. A description is always from the point of view of a specific scale.
 
 Now we can derive rates of change, and see what we get.
