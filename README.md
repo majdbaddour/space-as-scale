@@ -35,7 +35,7 @@ However, that space does `nothing`. It's just there as something `we` measure. I
 
 But ...
 
-Across a wide range of phenomena, from super galaxy clusters and planetary nebulae, to plant and animal organ shapes and growth patterns, all the way down to DNA molecules and atomic orbitals, there seems to be a kind of thread, or link, between environment and constituent part: the larger engulfing and enfolding the smaller. Each shaping the other beneath and above in the hierarchy. In other words: there is a causal exchange between big and small that is not captured by measurement of normal linear distance, but by measuring the `scale` distance between them, i.e. their `relative` size.
+There is a causal exchange between `big` and `small` that is not captured by measurement of normal linear distance, but by measuring the `scale` distance between them, i.e. their `relative` size. Across a wide range of phenomena, from super galaxy clusters and planetary nebulae, to plant and animal organ shapes and growth patterns, to DNA molecules and atomic orbitals: there looks to be quite a thread between environment and constituent part. The larger engulfing and enfolding the smaller. Each shaping the other beneath and above in the hierarchy.
 
 The questions I have are about:
 
