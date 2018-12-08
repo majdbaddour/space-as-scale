@@ -46,7 +46,7 @@ The questions I have are about:
 - How do we study this kind of interaction?
 - How do we study a hierarchy in Physics?
 
-If our questions are not about construction and motion, but about `growth` and `contraction`, we should not have to contend with that same concept of space -- i.e. that which is measured in linear distance: *_it would be the wrong abstraction_*.
+If our questions are not about construction and motion, but about `growth` and `contraction`, we should not have to contend with that same concept of space -- i.e. that which is measured in linear distance: **`it would be the wrong abstraction`**.
 
 If we build a Physics from a space that mediates causation between large and small -- i.e. describes how things at different scales grow, relate, and change together:
 
